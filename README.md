@@ -30,7 +30,7 @@ Telegram Bot API: Встроенный модуль для удаленного 
 ⚙️ Установка и Зависимости
 Для работы L3/L4 векторов (SYN Flood) требуются root-привилегии (или sudo), так как используется создание Raw Sockets.
 # Клонирование репозитория
-git clone https://github.com/your-username/phantom-net-stressor.git
+git clone https://github.com/paripa-Fullstack/anonpy.git
 cd phantom-net-stressor
 
 # Установка зависимостей
