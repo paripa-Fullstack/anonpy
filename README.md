@@ -1,6 +1,10 @@
 # anonpy
 Стал вопрос в проверки платформы, сохдании нагрузочного тестирования, банально если у вас есть виртуалки и минимальное понимание работы ботнетов, то это для вас, инструментов много, но я решил написать свое по функционалу то, 
 что было у меня в голове, я это писал месяца 2 назад, но сейчас решил выложить
+<img width="103" height="20" alt="image" src="https://github.com/user-attachments/assets/35834abd-b3f4-4f3b-80c8-a2a8f3a65ae7" />
+<img width="136" height="20" alt="image" src="https://github.com/user-attachments/assets/83ff8bcf-c85b-4a63-8462-894eec2ce6fb" />
+<img width="132" height="20" alt="image" src="https://github.com/user-attachments/assets/0f5814c9-0ca1-45d4-a82e-a71c622b8b4e" />
+<img width="178" height="20" alt="image" src="https://github.com/user-attachments/assets/a3c5de2f-95f0-4f41-8b99-2390c68fe048" />
 
 Phantom Net-Stressor — это высокопроизводительный многопоточный оркестратор для симуляции распределенных атак типа «Отказ в обслуживании» (DoS/DDoS) на уровнях L3, L4 и L7. Инструмент предназначен для специалистов по информационной безопасности, Red Team операторов и сетевых инженеров с целью стресс-тестирования WAF, IPS/IDS систем, rate-limiting политик и общей отказоустойчивости инфраструктуры.
 ⚠️ LEGAL DISCLAIMER / ПРАВОВОЙ ДИСКЛЕЙМЕР
